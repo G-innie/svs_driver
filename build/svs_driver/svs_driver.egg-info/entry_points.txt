@@ -1,0 +1,4 @@
+[console_scripts]
+serial_reader_svs = svs_driver.serial_reader_svs:main
+svs_driver = svs_driver.parse_svs:main
+

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "svs_interfaces__py",
+		"source" : "/home/ginnie/colcon_ws/src/svs_driver/build/svs_interfaces/svs_interfaces__py"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "package_name": "svs_interfaces",
+  "non_idl_tuples": [
+    "/home/ginnie/colcon_ws/src/svs_driver/svs_interfaces:msg/SVS.msg"
+  ]
+}

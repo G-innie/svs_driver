@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/svs_driver/svs_driver.egg-info
+writing ../build/svs_driver/svs_driver.egg-info/PKG-INFO
+writing dependency_links to ../build/svs_driver/svs_driver.egg-info/dependency_links.txt
+writing entry points to ../build/svs_driver/svs_driver.egg-info/entry_points.txt
+writing requirements to ../build/svs_driver/svs_driver.egg-info/requires.txt
+writing top-level names to ../build/svs_driver/svs_driver.egg-info/top_level.txt
+writing manifest file '../build/svs_driver/svs_driver.egg-info/SOURCES.txt'
+reading manifest file '../build/svs_driver/svs_driver.egg-info/SOURCES.txt'
+writing manifest file '../build/svs_driver/svs_driver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build
+creating /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib
+creating /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver
+copying svs_driver/__init__.py -> /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver
+copying svs_driver/serial_reader_turbidity.py -> /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver
+copying svs_driver/parses_svs.py -> /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver
+running install
+running install_lib
+creating /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver
+copying /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver/__init__.py -> /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver
+copying /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver/serial_reader_turbidity.py -> /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver
+copying /home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/build/lib/svs_driver/parses_svs.py -> /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver
+byte-compiling /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver/serial_reader_turbidity.py to serial_reader_turbidity.cpython-310.pyc
+byte-compiling /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver/parses_svs.py to parses_svs.cpython-310.pyc
+running install_data
+creating /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/share/ament_index
+creating /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/share/ament_index/resource_index
+creating /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/share/ament_index/resource_index/packages
+copying resource/svs_driver -> /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/share/ament_index/resource_index/packages
+copying package.xml -> /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/share/svs_driver
+running install_egg_info
+Copying ../build/svs_driver/svs_driver.egg-info to /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/python3.10/site-packages/svs_driver-0.0.0-py3.10.egg-info
+running install_scripts
+Installing serial_reader_svs script to /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/svs_driver
+Installing svs_driver script to /home/ginnie/colcon_ws/src/svs_driver/install/svs_driver/lib/svs_driver
+writing list of installed files to '/home/ginnie/colcon_ws/src/svs_driver/build/svs_driver/install.log'

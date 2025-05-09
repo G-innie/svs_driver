@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../build/svs_driver/svs_driver.egg-info/PKG-INFO
+../build/svs_driver/svs_driver.egg-info/SOURCES.txt
+../build/svs_driver/svs_driver.egg-info/dependency_links.txt
+../build/svs_driver/svs_driver.egg-info/entry_points.txt
+../build/svs_driver/svs_driver.egg-info/requires.txt
+../build/svs_driver/svs_driver.egg-info/top_level.txt
+../build/svs_driver/svs_driver.egg-info/zip-safe
+resource/svs_driver
+svs_driver/__init__.py
+svs_driver/parse_svs.py
+svs_driver/serial_reader_svs.py
