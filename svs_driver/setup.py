@@ -21,7 +21,6 @@ setup(
     entry_points={
         'console_scripts': [
             'svs_driver = svs_driver.parse_svs:main',
-            'serial_reader_svs = svs_driver.serial_reader_svs:main',
         ],
     },
 )
